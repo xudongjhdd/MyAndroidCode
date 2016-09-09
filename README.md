@@ -5,4 +5,4 @@
 
 ####优秀项目收集@
 * [AddCartAniamtion](https://github.com/jlcclidong/AddCartAniamtion) 仿美团外卖添加动画的三方库
-![](https://github.com/xudongjhdd/MyAndroidCode/screenshots/AddCartAniamtion0.gif)
+![](https://github.com/xudongjhdd/MyAndroidCode/tree/master/screenshots/AddCartAniamtion0.gif)
