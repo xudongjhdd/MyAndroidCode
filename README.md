@@ -15,3 +15,6 @@
 
 ![](https://github.com/zcweng/ToggleButton/blob/master/ToggleButtonSample/21879.gif)
 
+* [BoundNumber](https://github.com/tunye/BoundNumber) 仿照支付宝金额显示的TextView。数字从0跳跃显示至指定金额
+
+
