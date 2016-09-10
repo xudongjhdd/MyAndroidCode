@@ -17,4 +17,8 @@
 
 * [BoundNumber](https://github.com/tunye/BoundNumber) 仿照支付宝金额显示的TextView。数字从0跳跃显示至指定金额
 
+* [StatusBarCompat](https://github.com/niorgai/StatusBarCompat) Status Bar Utils 沉浸式状态
+
+![](https://camo.githubusercontent.com/ffdde1e5a95d4c6732cceb19e88fda8bb0668a78/687474703a2f2f3773627179732e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f66756c6c53637265656e2e706e67)
+
 
