@@ -5,6 +5,8 @@
 
 ####优秀项目收集@
 
+* [翻墙](https://github.com/racaljk/hosts) 最新可用的google hosts文件
+* 
 * [README](https://github.com/guodongxiaren/test) README文件语法解读，即Github Flavored Markdown语法介绍
 
 * [AddCartAniamtion](https://github.com/jlcclidong/AddCartAniamtion) 仿美团外卖添加动画的三方库
