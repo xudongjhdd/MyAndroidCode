@@ -26,3 +26,5 @@
 * [android-open-project](https://github.com/Trinea/android-open-project) Android 各种特效
 
 * [PopupMenu](https://github.com/lidong1665/PopupMenu) PopupMenu 
+
+* [XRefreshView](https://github.com/huxq17/XRefreshView) XRefreshView 一个万能的android下拉上拉刷新的框架,完美支持recyclerview
