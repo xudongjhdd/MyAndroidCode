@@ -31,5 +31,5 @@
 
 * [MultiResolutionMatching](https://github.com/jiaowenzheng/MultiResolutionMatching) MultiResolutionMatching(Android 屏幕适配方案)
 
-* [AutoLinkTextView](https://github.com/armcha/AutoLinkTextView) MultiResolutionMatching(AutoLinkTextView is TextView that supports Hashtags (#), Mentions (@) , URLs (http://), Phone and Email automatically detecting and ability to handle clicks.)
+* [AutoLinkTextView](https://github.com/armcha/AutoLinkTextView) AutoLinkTextView(AutoLinkTextView is TextView that supports Hashtags (#), Mentions (@) , URLs (http://), Phone and Email automatically detecting and ability to handle clicks.)
 
