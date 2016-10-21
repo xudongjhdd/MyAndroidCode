@@ -33,3 +33,5 @@
 
 * [AutoLinkTextView](https://github.com/armcha/AutoLinkTextView) AutoLinkTextView(AutoLinkTextView is TextView that supports Hashtags (#), Mentions (@) , URLs (http://), Phone and Email automatically detecting and ability to handle clicks.)
 
+* [ProgressStateLayout](https://github.com/Mersens/ProgressStateLayout) 自定义ProgressStateLayout实现网络请求状态间的相互切换(http://www.jianshu.com/p/66436928d99b)
+![](http://upload-images.jianshu.io/upload_images/3346542-fa6c0d736a0b81fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
