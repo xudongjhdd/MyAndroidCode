@@ -35,3 +35,16 @@
 
 * [ProgressStateLayout](https://github.com/Mersens/ProgressStateLayout) 自定义ProgressStateLayout实现网络请求状态间的相互切换(http://www.jianshu.com/p/66436928d99b)
 ![](http://upload-images.jianshu.io/upload_images/3346542-fa6c0d736a0b81fd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+* [SuperTextView](https://github.com/lygttpod/SuperTextView) 一个功能强大的TextView，可以满足日常大部分布局方式，开发者可已自行组合属性配置出属于自己风格的样式!
+#效果图
+<div  align="center">    
+<img src="https://github.com/lygttpod/SuperTextView/blob/master/screenshot.png" width = "360" height = "640" alt="效果图" align=center /></div>
+<div  align="center">    
+<img src="https://github.com/lygttpod/SuperTextView/blob/master/type1.png" width = "270" height = "480" alt="效果图" align=center />
+<img src="https://github.com/lygttpod/SuperTextView/blob/master/type2.png" width = "270" height = "480" alt="效果图" align=center />
+<img src="https://github.com/lygttpod/SuperTextView/blob/master/type3.png" width = "270" height = "480" alt="效果图" align=center />
+<img src="https://github.com/lygttpod/SuperTextView/blob/master/type4.png" width = "270" height = "480" alt="效果图" align=center />
+<img src="https://github.com/lygttpod/SuperTextView/blob/master/type5.png" width = "270" height = "480" alt="效果图" align=center />
+<img src="https://github.com/lygttpod/SuperTextView/blob/master/type6.png" width = "270" height = "480" alt="效果图" align=center />
+</div>
