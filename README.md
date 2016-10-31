@@ -48,3 +48,7 @@
 <img src="https://github.com/lygttpod/SuperTextView/blob/master/type5.png" width = "270" height = "480" alt="效果图" align=center />
 <img src="https://github.com/lygttpod/SuperTextView/blob/master/type6.png" width = "270" height = "480" alt="效果图" align=center />
 </div>
+
+* [android-autofittextview](https://github.com/grantland/android-autofittextview) A TextView that automatically resizes text to fit perfectly within its bounds.(字体大小自动适应长度)
+
+![](https://raw.githubusercontent.com/grantland/android-autofittextview/master/website/static/autofittextview.gif)
